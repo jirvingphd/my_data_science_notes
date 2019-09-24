@@ -3,13 +3,13 @@ This is a collection of several Jupyter Notebooks from Flatiron's Data Science B
 
 ## TABLE OF CONTENTS
 1. [Flatiron_Bootcamp_Notes_Mod_1_&_2_share.ipynb](https://github.com/jirvingphd/my_data_science_notes/blob/master/Flatiron_Bootcamp_Notes_Mod_1_&_2_share.ipynb)
-  - [Google Colab Link](https://colab.research.google.com/github/jirvingphd/my_data_science_notes/blob/master/Flatiron_Bootcamp_Notes_Mod_1_%26_2_share.ipynb)
+    - [Google Colab Link](https://colab.research.google.com/github/jirvingphd/my_data_science_notes/blob/master/Flatiron_Bootcamp_Notes_Mod_1_%26_2_share.ipynb)
 2. [Flatiron_Bootcamp_Notes_Mod_3_+_More_Time_Series_share.ipynb](https://github.com/jirvingphd/my_data_science_notes/blob/master/Flatiron_Bootcamp_Notes_Mod_3_+_More_Time_Series_share.ipynb)
-  - [Google Colab Link](https://colab.research.google.com/github/jirvingphd/my_data_science_notes/blob/master/Flatiron_Bootcamp_Notes_Mod_3_%2B_More_Time_Series_share.ipynb)
+    - [Google Colab Link](https://colab.research.google.com/github/jirvingphd/my_data_science_notes/blob/master/Flatiron_Bootcamp_Notes_Mod_3_%2B_More_Time_Series_share.ipynb)
 3. [Flatiron_Bootcamp_Notes_Neural_Networks_Mod_4.ipynb](https://github.com/jirvingphd/my_data_science_notes/blob/master/Flatiron_Bootcamp_Notes_Neural_Networks_Mod_4.ipynb)
-  - [Google Colab Link](https://colab.research.google.com/github/jirvingphd/my_data_science_notes/blob/master/Flatiron_Bootcamp_Notes_Neural_Networks_Mod_4.ipynb)
+    - [Google Colab Link](https://colab.research.google.com/github/jirvingphd/my_data_science_notes/blob/master/Flatiron_Bootcamp_Notes_Neural_Networks_Mod_4.ipynb)
 4. [Web_Scraping_101_share.ipynb](https://github.com/jirvingphd/my_data_science_notes/blob/master/Web_Scraping_101_share.ipynb)
-  - [Google Colab Link](https://colab.research.google.com/github/jirvingphd/my_data_science_notes/blob/master/Web_Scraping_101_share.ipynb)
+    - [Google Colab Link](https://colab.research.google.com/github/jirvingphd/my_data_science_notes/blob/master/Web_Scraping_101_share.ipynb)
 
 ### Patreon Page [in Progress]
 - I am working on a Patreon page through which I can offer more resources like these. 
